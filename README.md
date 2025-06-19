@@ -41,9 +41,9 @@ To connect accounting principles to the statements:
 
 **Screenshots:**
 
-| Journal Entries | T-Accounts | Trial Balance |
-|-----------------|-------------|----------------|
-| ![Journal Entries](screenshots/journal_entries.png) | ![T-Accounts](screenshots/t_accounts.png) | ![Trial Balance](screenshots/trial_balance.png) |
+| Journal Entries | Trial Balance |
+|-----------------|----------------|
+| ![Journal Entries](screenshots/journal_entries.png) | ![Trial Balance](screenshots/trial_balance.png) |
 
 ---
 
@@ -72,6 +72,17 @@ python analysis.py
 See `report.md` for a short written summary of trends and insights.
 
 ---
+## Tech Stack & Requirements
+
+- **Python:** 3.x
+- **pandas:** 1.5 or higher
+- **matplotlib:** 3.7 or higher
+- **fpdf:** for PDF report generation
+
+Install dependencies:
+```bash
+pip install pandas matplotlib fpdf
+
 
 ## Notes
 
@@ -80,7 +91,7 @@ See `report.md` for a short written summary of trends and insights.
 
 ---
 
-## 🙌 Author
+## Author
 
-✅ *Anna Davoyan*
+*Anna Davoyan*
 
