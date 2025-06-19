@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![pandas](https://img.shields.io/badge/pandas-1.5+-lightgrey)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.7+-yellow)
+
+
 # ArCa Financial Statement Analysis & Bookkeeping Demo (2021–2023)
 
 ## Goal
